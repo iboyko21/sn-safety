@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Safety Config">ec7ca1ff9830211007f4f133cf7c4f66</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>Home</name>
+        <optional_parameters>sysId,openInEditMode</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>home</route_type>
+        <screen_type display_value="Home">e87ca1ffa130211036fcbda8b3377160</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-10 18:23:30</sys_created_on>
+        <sys_id>607ca1ffdf3021102c0b5d4f0ec7ac66</sys_id>
+        <sys_name>Home</sys_name>
+        <sys_package display_value="Safety" source="x_968807_safety">01a1693397302110036cbbc3f153afe6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">01a1693397302110036cbbc3f153afe6</sys_scope>
+        <sys_update_name>sys_ux_app_route_607ca1ffdf3021102c0b5d4f0ec7ac66</sys_update_name>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=607ca1ffdf3021102c0b5d4f0ec7ac66"/>
+</record_update>

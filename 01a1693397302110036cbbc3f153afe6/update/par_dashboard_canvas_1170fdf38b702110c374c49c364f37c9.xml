@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_canvas">
+    <par_dashboard_canvas action="INSERT_OR_UPDATE">
+        <dashboard display_value="Safety">5970fdf38d7021106141a72cf4b745c3</dashboard>
+        <dashboard_tab/>
+        <layout>[]</layout>
+        <sys_class_name>par_dashboard_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-10 18:41:02</sys_created_on>
+        <sys_id>1170fdf38b702110c374c49c364f37c9</sys_id>
+        <sys_name/>
+        <sys_package display_value="Safety" source="x_968807_safety">01a1693397302110036cbbc3f153afe6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">01a1693397302110036cbbc3f153afe6</sys_scope>
+        <sys_update_name>par_dashboard_canvas_1170fdf38b702110c374c49c364f37c9</sys_update_name>
+    </par_dashboard_canvas>
+</record_update>

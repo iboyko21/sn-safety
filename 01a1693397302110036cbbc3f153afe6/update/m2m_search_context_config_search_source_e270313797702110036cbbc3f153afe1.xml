@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_search_context_config_search_source">
+    <m2m_search_context_config_search_source action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <search_context_config display_value="Safety - Workspace Search">5170fdf35e702110556a7b50918ebdc9</search_context_config>
+        <source display_value="Safety - x_968807_safety_issue">6e70313797702110036cbbc3f153afde</source>
+        <sys_class_name>m2m_search_context_config_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-10 18:41:06</sys_created_on>
+        <sys_id>e270313797702110036cbbc3f153afe1</sys_id>
+        <sys_name/>
+        <sys_package display_value="Safety" source="x_968807_safety">01a1693397302110036cbbc3f153afe6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">01a1693397302110036cbbc3f153afe6</sys_scope>
+        <sys_update_name>m2m_search_context_config_search_source_e270313797702110036cbbc3f153afe1</sys_update_name>
+    </m2m_search_context_config_search_source>
+</record_update>

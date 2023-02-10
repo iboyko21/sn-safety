@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_datasource_field_attribute">
+    <ais_datasource_field_attribute action="INSERT_OR_UPDATE">
+        <attribute display_value="map_to">f734a634c7320010d1cfd9795cc26094</attribute>
+        <datasource/>
+        <field>u_number</field>
+        <source>x_968807_safety_1676051804275</source>
+        <sys_class_name>ais_datasource_field_attribute</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-10 18:23:38</sys_created_on>
+        <sys_id>b27c65ff97302110036cbbc3f153af38</sys_id>
+        <sys_name>undefined.u_number</sys_name>
+        <sys_package display_value="Safety" source="x_968807_safety">01a1693397302110036cbbc3f153afe6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">01a1693397302110036cbbc3f153afe6</sys_scope>
+        <sys_update_name>ais_datasource_field_attribute_b27c65ff97302110036cbbc3f153af38</sys_update_name>
+        <value>title</value>
+    </ais_datasource_field_attribute>
+</record_update>

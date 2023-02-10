@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="3e70313797702110036cbbc3f153af93" sys_domain="global" table="x_968807_safety_issue" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-10 18:41:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3670313797702110036cbbc3f153af98</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_968807_safety_issue" name="x_968807_safety_issue" sys_domain="global" view="9170fdf30b702110c6a3cfb398eed8c6">3e70313797702110036cbbc3f153af93</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_968807_safety_issue" sys_domain="global" view="9170fdf30b702110c6a3cfb398eed8c6">3e70313797702110036cbbc3f153af96</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-10 18:41:07</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_968807_safety_issue</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-10 18:41:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3e70313797702110036cbbc3f153af93</sys_id>
+            <sys_name>x_968807_safety_issue</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Safety" source="x_968807_safety">01a1693397302110036cbbc3f153afe6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Safety">01a1693397302110036cbbc3f153afe6</sys_scope>
+            <sys_update_name>sys_ui_form_sections_3e70313797702110036cbbc3f153af93</sys_update_name>
+            <sys_user/>
+            <view display_value="Workspace-x 968807 safety-0" name="Workspace-x_968807_safety-0">9170fdf30b702110c6a3cfb398eed8c6</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

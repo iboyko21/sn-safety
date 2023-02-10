@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_dictionary">
+    <ais_dictionary action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <auto_refresh>24</auto_refresh>
+        <blocked_field/>
+        <case_sensitive>false</case_sensitive>
+        <data_source>x_968807_safety_issue</data_source>
+        <derived>true</derived>
+        <field/>
+        <label>Safety search profile Default Spell Check Dictionary</label>
+        <last_derived/>
+        <locale>en</locale>
+        <name>x_968807_safety_safety_search_profile_default_spell_check_dictionary</name>
+        <publish_id/>
+        <punctuation_sensitive>false</punctuation_sensitive>
+        <state>DRAFT</state>
+        <sys_class_name>ais_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-10 18:23:38</sys_created_on>
+        <sys_id>a27c25ff97302110036cbbc3f153afea</sys_id>
+        <sys_name>x_968807_safety_safety_search_profile_default_spell_check_dictionary</sys_name>
+        <sys_package display_value="Safety" source="x_968807_safety">01a1693397302110036cbbc3f153afe6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">01a1693397302110036cbbc3f153afe6</sys_scope>
+        <sys_update_name>ais_dictionary_a27c25ff97302110036cbbc3f153afea</sys_update_name>
+        <type>SPELLCHECK</type>
+    </ais_dictionary>
+</record_update>

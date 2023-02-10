@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_permission">
+    <par_dashboard_permission action="INSERT_OR_UPDATE">
+        <can_read>true</can_read>
+        <can_share>false</can_share>
+        <can_write>false</can_write>
+        <dashboard display_value="Safety">5970fdf38d7021106141a72cf4b745c3</dashboard>
+        <group/>
+        <role display_value="x_968807_safety.admin" name="x_968807_safety.admin">4dd12d3397302110036cbbc3f153af6f</role>
+        <sys_class_name>par_dashboard_permission</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-10 18:41:05</sys_created_on>
+        <sys_id>1e70313797702110036cbbc3f153af81</sys_id>
+        <sys_name>5970fdf38d7021106141a72cf4b745c3</sys_name>
+        <sys_package display_value="Safety" source="x_968807_safety">01a1693397302110036cbbc3f153afe6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">01a1693397302110036cbbc3f153afe6</sys_scope>
+        <sys_update_name>par_dashboard_permission_1e70313797702110036cbbc3f153af81</sys_update_name>
+        <user/>
+    </par_dashboard_permission>
+</record_update>

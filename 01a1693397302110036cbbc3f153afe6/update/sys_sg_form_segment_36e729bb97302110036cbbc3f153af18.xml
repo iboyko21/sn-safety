@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
+    <sys_sg_form_segment action="INSERT_OR_UPDATE">
+        <embedded_screen display_value="Details">76e729bb97302110036cbbc3f153af15</embedded_screen>
+        <form display_value="Issue Form Screen">bae729bb97302110036cbbc3f153af14</form>
+        <header_view_config/>
+        <is_sticky>false</is_sticky>
+        <order>10</order>
+        <sys_class_name>sys_sg_form_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-10 18:03:42</sys_created_on>
+        <sys_id>36e729bb97302110036cbbc3f153af18</sys_id>
+        <sys_name/>
+        <sys_package display_value="Safety" source="x_968807_safety">01a1693397302110036cbbc3f153afe6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">01a1693397302110036cbbc3f153afe6</sys_scope>
+        <sys_update_name>sys_sg_form_segment_36e729bb97302110036cbbc3f153af18</sys_update_name>
+    </sys_sg_form_segment>
+</record_update>
